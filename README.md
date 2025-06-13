@@ -6,7 +6,7 @@ This is the official repository  of the paper: *Underwater Image Enhancement via
 
 ## Usage
 
-The code will be released soon. Please feel free to contact  [Lianghui Li:Email](15918411668@stu.scau.edu.cn).
+The code will be released soon. Please feel free to contact `1355573246@qq.com`.
 
 We recommend using the [**Anaconda**](https://www.anaconda.com/) package manager to avoid dependency/reproducibility problems. 
 
